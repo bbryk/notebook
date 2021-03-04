@@ -111,6 +111,6 @@ class Menu:
         sys.exit(0)
 
 
-# if __name__=="__main__":
-#     Menu().run()
-doctest.testmod()
+if __name__=="__main__":
+    Menu().run()
+
